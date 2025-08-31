@@ -87,6 +87,13 @@ Here’s a quick peek into the **7 magical tables** 🪄📊:
 
 ---
 
+## 🧠 Dataset Schema
+
+
+![Image](https://github.com/user-attachments/assets/9132cb60-8aca-4023-bbb6-ecdbef2c2113)
+
+
+
 ## 🧠 SQL Queries
 
 This project is structured into **3 levels of SQL expertise** 🎓:
