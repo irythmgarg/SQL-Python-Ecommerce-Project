@@ -1,9 +1,7 @@
-# SQL-Python-Ecommerce-Project
-
 # 🎯 Target Brazil SQL Project 🇧🇷
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Target_logo.svg" alt="Target Logo" width="200"/>
+  <img src="https://1000logos.net/wp-content/uploads/2017/06/Target-Logo.png" alt="Target Logo" width="200"/>
 </p>  
 
 ## 📖 Overview
@@ -121,23 +119,4 @@ This project is structured into **3 levels of SQL expertise** 🎓:
 
 ## 🚀 Tech Stack
 
-* 🐍 **Python (Jupyter Notebook)** → Data dump into MySQL using `mysql-connector`
-* 🗄️ **MySQL** → Database engine for queries
-* 📊 **SQL** → Data exploration & analysis
-
----
-
-## ✨ Key Learnings & Highlights
-
-✔️ Hands-on experience with **relational databases** 🛢️
-✔️ Writing & optimizing **SQL queries** for business insights 📈
-✔️ Understanding **real-world e-commerce operations** 🌍
-✔️ Showcasing **data-driven decision-making** in retail 🛍️
-
----
-
-## 👨‍💻 Author
-
-**Ridham Garg**
-🎓 Thapar Institute of Engineering and Technology, Patiala
-💡 Passionate about **Data, AI/ML, and Problem-Solving** 🤖📊
+* 🐍 **Python (Jupyter Notebook)** → Data dump into MySQL using \`mysql-con
